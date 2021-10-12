@@ -14,3 +14,17 @@
 .breakpoint{
     height: 100%;
 }
+.breakpoint > div{
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    display: inline-block;
+    height: 50px;
+    padding: 0.5rem;
+    width: auto;
+}
+
+.breakpoint h1{
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
