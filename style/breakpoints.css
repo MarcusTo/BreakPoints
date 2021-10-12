@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid rgba(230, 87, 62, 0.918);
+}
+
+.container{
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+}
+.breakpoint{
+    height: 100%;
+}
